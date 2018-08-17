@@ -43,7 +43,7 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/button_sign_in"
+            android:id="@+id/button_log_in"
             android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:text="Log in" />
